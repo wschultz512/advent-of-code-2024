@@ -1,5 +1,7 @@
 # AdventOfCode 2024
 
+[AdventOfCode.com](AdventOfCode.com) is a fun little yearly coding challenge. The problems start generally approachable, but were designed by people with twisty minds, and naive solutions can run into challenges. People can use this to learn a new programming language, or to flex their skills on their daily language. It's a fun way to form a community among developers.
+
 Stack:
 - Rust
 
